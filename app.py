@@ -12,3 +12,4 @@ def get_books(title:hug.types.text):
 #CLI
 if __name__ == '__main__':
     get_books.interface.cli()
+    
